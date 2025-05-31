@@ -1,6 +1,6 @@
 # 👋 Welcome to My Coding Journey
 
-![header my journey](https://github.com/Asfa-Asfialana/10.037.DB2025/blob/main/Header%20my%20journey.gif)
+![coding_journey](https://github.com/Asfa-Asfialana/10.037.DB2025/blob/main/coding_journey.gif)
 
 Hello and welcome to my **Practice and Projects** repository!
 
