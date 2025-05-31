@@ -1,5 +1,7 @@
 # 👋 Welcome to My Coding Journey
 
+https://github.com/Asfa-Asfialana/10.037.DB2025/blob/main/Header%20my%20journey.gif
+
 Hello and welcome to my **Practice and Projects** repository!
 
 I'm an enthusiastic beginner in the world of coding, eager to learn and explore new technologies. This repository serves as a personal space where I document exercises from Eco Technology Leader and embark on projects that I plan to develop in the future.
