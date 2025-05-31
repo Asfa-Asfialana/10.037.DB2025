@@ -26,3 +26,7 @@ Through my experiences, I've discovered several advantages to learning programmi
 I'm always open to sharing knowledge and learning more about coding. If you have any insights, suggestions, or just want to connect, feel free to reach out!
 
 Thank you for visiting my repository. Happy coding! 🚀
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AS.ASFIALN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asfaasfialana86/) 
